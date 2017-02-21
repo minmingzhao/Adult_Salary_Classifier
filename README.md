@@ -9,18 +9,18 @@ This is the homeworks from this Machine learning course. Tasks are implementing 
 5. SVM (support vector machine)
 6. kNN (k-nearest neighbor)
 
-## Random Optimization
+## Random Optimization (java)
 1. Random Hill Climbing
 2. Simulated Annealling
 3. Genetic Algorithm
 4. MIMIC
 
-## Clustering
+## Clustering (python)
 1. K-means
 2. Expectation Maximization
 3. Dimensionality reduction using Principal Component Analysis, Independent Component Analysis, Random Projection, Linear Discriminant Analysis. 
 
-## Markov Decision Process
+## Markov Decision Process (java)
 This section assignment is to design and solve two MDP (Markov Decision Process) problem (Grid World) using 
 1. value iteration 
 2. policy iteration 
